@@ -1,0 +1,6 @@
+flask
+line-bot-sdk
+python-dotenv
+openai
+requests
+beautifulsoup4
